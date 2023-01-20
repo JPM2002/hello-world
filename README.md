@@ -1,2 +1,2 @@
-# hello-world
-The following repository has been created for Lab 1
+#Who am I?
+My name is Javier Pozo Miranda, and I am from Peru.
